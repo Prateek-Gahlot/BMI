@@ -8,7 +8,7 @@ The BMI (Body Mass Index) Calculator app is a helpful tool that allows users to 
 
 <img width="350" alt="bmi3" src="https://github.com/Prateek-Gahlot/BMI/assets/141181732/31f00f81-4023-4e77-a2d6-f966a172fe1c">
 
-<img width="350" alt="bmi4" src="https://github.com/Prateek-Gahlot/BMI/assets/141181732/27594b87-7a98-4578-9174-ad0923e68ab0">
+<img width="330" alt="bmi4" src="https://github.com/Prateek-Gahlot/BMI/assets/141181732/27594b87-7a98-4578-9174-ad0923e68ab0">
 
 
 A few resources to get you started if this is your first Flutter project:
